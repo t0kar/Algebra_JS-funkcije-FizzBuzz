@@ -1,6 +1,5 @@
 function findFizzBuzz(max) {
     var fizzBuzz = [];
-    var array_length;
 
     for (var i = 0; i <= max; i++) {
         if (i === 0) continue;
