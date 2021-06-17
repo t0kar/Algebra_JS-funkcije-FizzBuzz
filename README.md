@@ -23,3 +23,9 @@ Trajanje: 30min (cca 20:55)
 
 
 Ispisati sadržaj niza i duljinu niza.
+
+BONUS:
+
+1. Definirajte i "min" parametar uz "max" tako da možete definirati od kojeg i do kojeg broja se petlja kreće
+
+2. Definirajte parametre za "fizz" i "buzz" tekstove da možete sami definirati tekst koji će se ispisati kod djeljivosti
